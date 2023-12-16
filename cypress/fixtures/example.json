@@ -1,0 +1,11 @@
+{
+  "url": "https://portaltest.opendr.com/",
+  "practicename": "Radiology Regional",
+  "correct_username": "akamath@opendr.com",
+  "correct_password": "Opendr@123",
+  "incorrect_username": "akamath@ope.com",
+  "incorrect_password": "Opendr@13",
+  "user":"crm",
+  "WAIT_TIMEOUT":"60000"
+  
+}
